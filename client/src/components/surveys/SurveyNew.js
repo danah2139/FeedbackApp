@@ -1,8 +1,12 @@
-import React from 'react';
+import React , { Component } from 'react';
 
-const SurveyNew = () => {
-    return(<div>
-        SurveyNew
-    </div>);
-}; 
+class SurveyNew extends Component{
+    render(){
+        return(
+            <div>
+                SurveyNew
+            </div>
+        );
+    }
+}
 export default SurveyNew; 
