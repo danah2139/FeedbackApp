@@ -6,7 +6,7 @@ const Landing = () =>{
             <h1>
                 Emaily!
             </h1>
-            Collect
+            Collect  feedback 
         </div>
     );
 };
