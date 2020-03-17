@@ -45,14 +45,14 @@ Add paid surveys
 
 <h2> FEEDBACK EMAIL</h2>
 
-![Feedback Email](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8F%E2%80%8Fscreenshots/feedbackEmail.png "Feedback")
+![Feedback Email](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8Fscreenshots/feedbackEmail.png "Feedback")
 
 <h2> SEND SURVEY </h2>
 
-![Send Survey](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8F%E2%80%8Fscreenshots/sendSurvey.png "sendSurvey")
+![Send Survey](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8Fscreenshots/sendSurvey.png "sendSurvey")
 
 <h2> List Of Surveys </h2>
 
-![List Surveys](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8F%E2%80%8Fscreenshots/listOfSurvey.png "listSurvey")
+![List Surveys](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8Fscreenshots/listOfSurvey.png "listSurvey")
 
 
