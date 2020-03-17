@@ -33,15 +33,15 @@ Add paid surveys
 
 <h2> HOME PAGE </h2>
 
-![HomePage](https://github.com/danah2139/FeedbackApp/tree/master/config/screenshots/homePage.png "HomePage")
+![HomePage](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8Fscreenshots/homePage.png "HomePage")
 
 <h2> CREATE SURVEY </h2>
 
-![Create Survey](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8F%E2%80%8Fscreenshots/createSurvey.png "createSurvey")
+![Create Survey](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8Fscreenshots/createSurvey.png "createSurvey")
 
 <h2> SEND SURVEY </h2>
 
-![Send Survey](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8F%E2%80%8Fscreenshots/sendSurvey.png "sendSurvey")
+![Send Survey](https://github.com/danah2139/FeedbackApp/blob/master/config/%E2%80%8Fscreenshots/sendSurvey.png "sendSurvey")
 
 <h2> FEEDBACK EMAIL</h2>
 
